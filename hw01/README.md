@@ -5,7 +5,7 @@
 ### THANKS: Mr. Chi (neokent) && TAs  
 
 ---
-## h2hw0101.c
+## hw0101.c
 
 #### PROJECT_NAME
 
