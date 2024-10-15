@@ -1,8 +1,10 @@
 ## README
 
-### AUTHOR: yoro  
+#### AUTHOR: yoro  
 
-### THANKS: Mr. Chi (neokent) && TAs  
+#### THANKS: Mr. Chi (neokent) && TAs  
+
+### Additional Information from TAs： https://hackmd.io/@ntnucsie-panda/BJ1xhOZRA
 
 ---
 ## hw0101.c
