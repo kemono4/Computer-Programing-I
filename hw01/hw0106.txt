@@ -1,0 +1,5 @@
+引述自 GNU make 手冊 5.5 Errors in Recipes:
+
+"To ignore errors in a recipe line, write a ‘-’ at the beginning of the line’s text (after the initial tab). The ‘-’ is discarded before the line is passed to the shell for execution."
+
+將"gcc"改為"-gcc"便可忽略錯誤繼續執行。
