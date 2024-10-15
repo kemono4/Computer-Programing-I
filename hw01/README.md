@@ -1,6 +1,7 @@
 # README
 
 ## Additional Information from TAs： https://hackmd.io/@ntnucsie-panda/BJ1xhOZRA
+## Loop, Function, Array, String are banned in hw01.
 
 #### AUTHOR: yoro  
 
