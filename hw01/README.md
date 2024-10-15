@@ -16,8 +16,8 @@ Print Colorful Lyrics
 
 This program displays the lyrics of the song "Sun and Moon" from the musical Miss Saigon. The lyrics are colored to distinguish between the two main characters, Kim, Chris, and their duet parts.
 
-· Kim’s lyrics are displayed in red.
-· Chris’s lyrics are displayed in blue.
+· Kim’s lyrics are displayed in red.  
+· Chris’s lyrics are displayed in blue.  
 · Duet lyrics are displayed in green.
 
 ---
@@ -81,9 +81,9 @@ This program determine the highest-ranking category of the given five cards.
 
 Cards are encoded as follows:
 
-· 1-13: Spade Ace to King.
-· 14-26: Heart Ace to King.
-· 27-39: Diamond Ace to King.
+· 1-13: Spade Ace to King.  
+· 14-26: Heart Ace to King.  
+· 27-39: Diamond Ace to King.  
 · 40-52: Club Ace to King.
 
 
