@@ -1,6 +1,6 @@
 ## README
 
-### AUTHOR: 江春澤 (41347031S)  
+### AUTHOR: yoro  
 
 ### THANKS: Mr. Chi (neokent) && TAs  
 
